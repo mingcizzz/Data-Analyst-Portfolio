@@ -3,5 +3,6 @@
 
 Our client is a coffee chain with three locations in New York City. The ultimate purpose of this project is to use the R model we learned to analyze the historical sales data and customer data of the café store to optimize the promoting strategy.
 - Data cleaning: R
-- Model: Market Basket Analysis, Clustering Analysis, Decision Tree, Neural Network, Logistic Regression, Linear regression 
+- Data Analysis: Market Basket Analysis, Clustering Analysis, Decision Tree, Neural Network, Logistic Regression, Linear regression 
+- Data visualization: Tableau
 
