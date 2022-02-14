@@ -13,7 +13,7 @@ Our client is a coffee chain with three locations in New York City. The ultimate
 - Data Analysis: LightGBM 
 - Data visualization: -
 
-## Project 3 Mobile Games AB Testing
+## Project 3 [Mobile Games AB Testing](https://github.com/mingcizzz/Data-Analyst-Portfolio/tree/main/Proj_3%20Mobile%20Games%20AB%20Testing)
 
 In this project, we analyze the result of an A/B test where the first gate in mobile game was moved from level 30 to level 40. We analyzed the impact on player retention, wether they can progress or make an in-app purchase.
 
