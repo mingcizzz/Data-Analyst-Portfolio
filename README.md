@@ -7,7 +7,7 @@ Our client is a coffee chain with three locations in New York City. The ultimate
 - Data cleaning: Python
 - Data Analysis: SVM with kernel function and neural network 
 - Data visualization: Tableau
------------------------------------------------------------
+
 2021.11
 - Data cleaning: R
 - Data Analysis: Market Basket Analysis, Clustering Analysis, Decision Tree, Neural Network, Logistic Regression, Linear regression 
